@@ -1,0 +1,12 @@
+{
+    "name": "newproject",
+    "description": "test diff projects in one repo",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow2.json",
+            "credentialsFile": "flow2_cred.json"
+        }
+    }
+}
