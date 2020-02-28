@@ -1,18 +1,4 @@
 {
-<<<<<<< HEAD
-    "name": "newproject2",
-    "description": "22222",
-=======
-<<<<<<< HEAD
-    "name": "newproject",
-    "description": "test diff projects in one repo",
-=======
-    "name": "test",
-    "description": "pro test 2",
->>>>>>> 581749c350555ad929ee88aa76437f98ef6986f3
->>>>>>> 96ba5443b3d1e10805b7b5757228d5ecb8c9763c
-    "version": "0.0.1",
-    "dependencies": {},
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
